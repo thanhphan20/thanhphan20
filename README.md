@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GOPORO&fontSize=42&fontAlignY=32&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANH+PHAN&fontSize=42&fontAlignY=32&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -7,6 +7,10 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Backend+Engineer+%7C+System+Architect+%7C+Game+Developer;Building+Scalable+Microservices+%26+Distributed+Systems;TypeScript+%E2%80%A2+C%23+%E2%80%A2+NestJS+%E2%80%A2+.NET)](https://git.io/typing-svg)
   
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
 
 ### **About Me 🙋‍♂️**
 - 🔭 Building full-stack apps with **React, Next.js, Spring Boot, Node.js**
@@ -65,8 +69,8 @@
 ### **GitHub Stats 📊**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&theme=react&icon_color=ffb300" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphan20&layout=compact&theme=react&langs_count=6" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&theme=react&icon_color=ffb300&count_private=true&include_all_commits=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhphan20&layout=compact&theme=react&langs_count=6" height="165">
 </p>
 
 ### **Connect with me 🔗**
@@ -74,4 +78,4 @@
 <a href="https://www.linkedin.com/in/c%C3%B4ng-th%C3%A0nh-phan-05a7b7237/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-![snake gif](https://github.com/thanhphan20/thanhphan20/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/thanhphan20/thanhphan20/blob/output/github-contribution-grid-snake.svg)
