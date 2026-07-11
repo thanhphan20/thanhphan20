@@ -1,7 +1,7 @@
 # ThanhPhan20 — Software Engineer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ThanhPhan20&reversal=true&textBg=false&section=header&descAlignY=100&descAlign=50&fontAlignY=50&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ThanhPhan20&reversal=true&textBg=false&section=header&descAlignY=100&descAlign=50&fontAlignY=50&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+  <img width="100%" src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
 </div>
 
 ---
