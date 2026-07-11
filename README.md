@@ -1,28 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANH+PHAN&fontSize=42&fontAlignY=32&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thanh%20Phan&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Cloud&descAlignY=58&descSize=16" />
 </div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Software+Engineer;Full-Stack+Developer;Passionate+about+clean+code)](https://git.io/typing-svg)
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+full-stack+apps+with+React+%26+Spring+Boot;Exploring+cloud+infrastructure+and+system+design;Open+to+collaborating+on+open-source+projects" alt="Typing SVG" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
-</p>
+<br/>
 
-### **About Me 🙋‍♂️**
-- 🔭 Building full-stack apps with **React, Next.js, Spring Boot, Node.js**
-- 🌱 Diving deep into **cloud infra (AWS/Azure) and system design**
-- 👯 Open to collaborating on **open-source projects**
-- 📫 Reach me: **thanhphandev20@gmail.com**
-- ✨ Adventurous soul | 📚 Bookworm & manga enthusiast
-- 💪 Gym rat | ✈️ Travel junkie | 🎮 Gamer at heart
+### About Me
 
-### **Tech Stack 🛠️**
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
 
-**Languages**
+I'm a software engineer focused on full-stack development and cloud-native systems. Currently exploring **AWS/Azure infrastructure** and **system design**, and always happy to collaborate on interesting open-source work.
+
+📫 Reach me at **thanhphandev20@gmail.com**
+
+<br clear="right"/>
+
+<br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphan20&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</div>
+
+<br/>
+
+---
+
+### Tech Stack
+
+#### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +43,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-**Frontend**
+#### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -40,7 +51,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-**Backend**
+#### Backend
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -50,7 +61,7 @@
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
-**Database & Cloud**
+#### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,7 +71,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**DevOps & Tools**
+#### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -71,16 +82,25 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/kafka-%23323131.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Testing**
+#### Testing
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
 <br/>
 
-### **Connect with me 🔗**
+---
 
-<a href="https://www.linkedin.com/in/c%C3%B4ng-th%C3%A0nh-phan-05a7b7237/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+### Connect with Me
 
-![snake gif](https://github.com/thanhphan20/thanhphan20/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+  <a href="https://www.linkedin.com/in/c%C3%B4ng-th%C3%A0nh-phan-05a7b7237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:thanhphandev20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/thanhphan20/thanhphan20/blob/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</div>
