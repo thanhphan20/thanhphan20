@@ -22,13 +22,6 @@ I'm a software engineer focused on full-stack development and cloud-native syste
 
 <br/>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphan20&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
 ---
 
 ### Tech Stack
@@ -102,5 +95,5 @@ I'm a software engineer focused on full-stack development and cloud-native syste
 <br/>
 
 <div align="center">
-  <img src="https://github.com/thanhphan20/thanhphan20/blob/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake2.svg" alt="contribution snake animation" />
 </div>
