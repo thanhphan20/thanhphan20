@@ -1,18 +1,20 @@
+# ThanhPhan20 — Software Engineer
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thanh%20Phan&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Cloud&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANH+PHAN&fontSize=42&fontAlignY=32&animation=twinkling" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+full-stack+apps+with+React+%26+Spring+Boot;Exploring+cloud+infrastructure+and+system+design;Open+to+collaborating+on+open-source+projects" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&vCenter=true&width=435&lines=Software+Engineer+%E2%80%A2+Backend+Developer;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Cloud+%26+System+Design+" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 ### About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding animation" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
 
 I'm a software engineer focused on full-stack development and cloud-native systems. Currently exploring **AWS/Azure infrastructure** and **system design**, and always happy to collaborate on interesting open-source work.
 
@@ -91,9 +93,3 @@ I'm a software engineer focused on full-stack development and cloud-native syste
   <a href="https://www.facebook.com/ctp.congthanhphan/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:thanhphandev20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake2.svg" alt="contribution snake animation" />
-</div>
