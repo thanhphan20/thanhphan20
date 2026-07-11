@@ -1,28 +1,23 @@
 # ThanhPhan20 — Software Engineer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANH+PHAN&fontSize=42&fontAlignY=32&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ThanhPhan20&reversal=true&textBg=false&section=header&descAlignY=100&descAlign=50&fontAlignY=50&animation=twinkling" />
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&vCenter=true&width=435&lines=Software+Engineer+%E2%80%A2+Backend+Developer;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Cloud+%26+System+Design+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F398FF&vCenter=true&width=435&lines=Software+Engineer+%E2%80%A2+Backend+Focus;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Cloud+%26+System+Design+" alt="Typing SVG" /></a>
 </div>
 
-<br/>
-
-### About Me
-
-<p align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
-</p>
+</div>
+
+---
+### About me
 
 I'm a software engineer focused on full-stack development and cloud-native systems. Currently exploring **AWS/Azure infrastructure** and **system design**, and always happy to collaborate on interesting open-source work.
 
 📫 Reach me at **thanhphandev20@gmail.com**
-
-<br clear="right"/>
-
-<br/>
 
 ---
 
