@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F398FF&vCenter=true&width=435&lines=Software+Engineer+%E2%80%A2+Backend+Focus;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Cloud+%26+System+Design+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F398FF&vCenter=true&width=435&lines=Software+Engineer+%E2%80%A2+Backend+Focus;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2;Cloud+%26+System+Design+" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
