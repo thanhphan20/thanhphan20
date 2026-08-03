@@ -10,11 +10,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=F398FF&center=true&vCenter=true&width=900&height=50&lines=Software+Engineer+%7C+Backend+Focus;Building+Scalable+Full-Stack+Apps;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Cloud+%26+System+Design)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
 </div>
 
 <div align="center">
