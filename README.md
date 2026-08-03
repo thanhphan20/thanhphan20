@@ -17,6 +17,10 @@
 
 </div>
 
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```python
@@ -162,18 +166,16 @@ timeline
 
 <div align="center">
 
+## GitHub Contribution
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thanhphan20&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F398FF&line=F398FF&point=58A6FF&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphan20&theme=github-compact&hide_border=true&area=true" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/thanhphan20/thanhphan20/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F398FF&text_color=FFFFFF&icon_color=58A6FF"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thanhphan20&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphan20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F398FF&text_color=FFFFFF&langs_count=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphan20&layout=compact&theme=default&hide_border=true&langs_count=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thanhphan20&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F398FF&line=F398FF&point=58A6FF&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhphan20&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </picture>
 
 </div>
